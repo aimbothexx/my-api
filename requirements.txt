@@ -5,3 +5,4 @@ psutil
 PyJWT
 protobuf
 urllib3
+protobuf-decoder
