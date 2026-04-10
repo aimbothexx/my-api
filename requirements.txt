@@ -6,3 +6,4 @@ PyJWT
 protobuf
 urllib3
 protobuf-decoder
+pycryptodome
